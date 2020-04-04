@@ -1,0 +1,42 @@
+Protractor
+npm intall -g protractor
+protractor --version
+protractor -v
+
+where protractor
+webdriver-manager update
+//C:\Users\mindfire\AppData\Roaming\npm\node_modules\protractor\node_modules\webdriver-manager\selenium
+
+config.js  
+//C:\Users\mindfire\AppData\Roaming\npm\node_modules\protractor\example
+
+
+
+
+FOR SCREENSHOT
+
+You have to run command in your project folder. i think command is not working for globally.
+
+
+Allure reports
+
+https://www.npmjs.com/package/jasmine-allure-reporter
+
+
+cmd :::
+
+npm i jasmine-allure-reporter
+
+
+npm i allure-commandline
+
+
+
+
+HTML report :
+
+
+
+ npm i protractor-html-reporter-2
+
+npm install protractor-jasmine2-screenshot-reporter --save-dev
